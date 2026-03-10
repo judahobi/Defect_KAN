@@ -253,7 +253,6 @@ The per-stage detail view shows how attention shifts across scales for spatially
 
 <!-- INSERT IMAGE: KAN Layer 0 (256→128) Base Weights per Input Neuron -->
 ![KAN Activation Analysis](image/kan_activation.png)
-Weight statistics from the trained 3-layer KAN confirm active nonlinear learning across all layers:
 
 | Layer | Shape | Base Norm | Spline Norm | Spline/Base Ratio |
 |-------|-------|-----------|-------------|-------------------|
