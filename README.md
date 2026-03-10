@@ -84,7 +84,7 @@ The **0.943 macro recall on the official split** — with every defect class abo
 | FIS — Fuzzy Inference (2025) | 99.20% | — | 7 (excl. None, Near-full) | Handcrafted rules |
 | SCRBLAA-Net (2025) | — | 0.940 | 8 (excl. None) | None |
 | Geometric-Invariant CNN (2023) | ~94% | — | 7 (excl. None, Near-full) | Post-hoc (LRP) |
-| **Ours — EfficientNet-B0 + SPP + KAN** | **93.0%** | **0.913** | **All 9 classes** | **Intrinsic (learned)** |
+| **Ours (balanced eval) — EfficientNet-B0 + SPP + KAN** | **93.0%** | **0.913** | **All 9 classes** | **Intrinsic (learned)** |
 
 ### A Note on Evaluation Practices
 
